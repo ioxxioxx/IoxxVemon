@@ -1,7 +1,12 @@
 # IoxxVemon
+
+First Edit the meterpreter.rc script and add your ip and your port.
+then
 simple to use
 go into file Directory. type ./ioxxvenom.sh 
 if you are not in root use sudo.
+
+
 
 or you can remove the root check out of the script it dont matter.
 I originaly made this script for backtrack 3  4 and 5. I rewrote the script
