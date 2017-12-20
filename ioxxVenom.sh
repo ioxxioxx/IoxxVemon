@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # msfvenom
-
+clear
 echo "##########################################"
 echo "##BackDoor2 EXE Injection script by ioxx##"
 echo "###############Venom######################"
