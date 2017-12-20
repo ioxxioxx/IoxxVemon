@@ -1,6 +1,7 @@
 # IoxxVemon
 
 First Edit the meterpreter.rc script and add your ip and your port.
+or payload.
 then
 simple to use
 go into file Directory. type ./ioxxvenom.sh 
