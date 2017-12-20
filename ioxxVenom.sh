@@ -53,6 +53,7 @@ echo -e "Do you want to start Msfconsole:?> \c"
 read msff
 
 if [ "$msff" = "yes" ]; then
+sudo  service postgresql start
 clear
 msfconsole -r meterpreter.rc
 else
@@ -88,6 +89,7 @@ echo -e "Do you want to start Msfconsole:?> \c"
 read msff1
 
 if [ "$msff1" = "yes" ]; then
+sudo  service postgresql start
 clear
 msfconsole -r meterpreter.rc
 else
@@ -171,6 +173,7 @@ echo -e "Do you want to start Msfconsole:?> \c"
 read msff1
 
 if [ "$msff1" = "yes" ]; then
+sudo  service postgresql start
 clear
 msfconsole -r meterpreter.rc
 else
@@ -214,6 +217,7 @@ echo -e "Do you want to start Msfconsole:?> \c"
 read msff1
 
 if [ "$msff1" = "yes" ]; then
+sudo  service postgresql start
 clear
 msfconsole -r meterpreter.rc
 else
