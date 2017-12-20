@@ -4,7 +4,11 @@ First Edit the meterpreter.rc script and add your ip and your port.
 or payload.
 then
 simple to use
-go into file Directory. type ./ioxxvenom.sh 
+
+go into file Directory.
+chmod 755  ioxxvenom.sh
+type ./ioxxvenom.sh 
+
 if you are not in root use sudo.
 
 
